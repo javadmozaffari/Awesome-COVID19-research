@@ -5,14 +5,48 @@ Authors: [Javad Mozaffari](), [Abdollah Amirkhani](), and [Shahriar B Shokouhi](
 # <p align=center>`Awesome-COVID19-research </p>
 ## Overview
 - [Survey papers](#survey)
-- [Medical Image Segmentation](#segmentation)
-- [Medical Image Classification](#classification)
+- [Machine learning vs deep learning](#mLvsDL)
+- [Machine] (#gfddd)
+- [Medical Image Classification](#cfflassification)
 - [Medical Image Reconstruction](#reconstruction)
 - [Medical Image Registration](#registration)
 - [Medical Image Synthesis](#synthesis)
 - [Medical Image Detection](#detection)
 - [Clinical Report Generation](#clinical-report-generation)
 - [Others](#others)
+- [Citation](#citation)
+
+
+# MLvsDL
+![MlvsDl2](https://github.com/javadmozaffari/Awesome-COVID19-research/assets/47658906/501ca389-1dcb-47f5-86ba-65151d864601)
+
+
+# VGGNet 
+
+- [Very deep convolutional networks for large-scale image recognition] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Very+deep+convolutional+networks+for+large-scale+image+recognition&btnG=) [[arXiv]](https://arxiv.org/abs/1409.1556) [[code]]()
+
+|  Title  |   Year  |   Image type   |   Accuracy    |   Code   | Number of classes |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|<br> [Modified Vgg Deep Learning Architecture For Covid-19 Classification Using Bio-Medical Image](https://journals.lww.com/BBRJ/Fulltext/2021/05010/Modified_VGG_Deep_Learning_Architecture_for.8.aspx) <br> | 2021 | X-ray | 98% | [Github]() | 4 class
+|<br> [A deep learning based approach for automatic detection of COVID-19 cases using chest X-ray images](https://www.sciencedirect.com/science/article/pii/S1746809421007795) <br> | 2022 | X-ray | 96.6% | [Github]() | 3 class
+|<br> [BDCNet: multi-classification convolutional neural network model for classification of COVID-19, pneumonia, and lung cancer from chest radiographs](https://link.springer.com/article/10.1007/s00530-021-00878-3) <br> | 2022 | X-ray | 98.33% | [Github]() | 4 class
+|<br> [Coronavirus covid-19 detection by means of explainable deep learning](https://www.nature.com/articles/s41598-023-27697-y) <br> | 2023 | CT |  95% | [Github]() | 2 class
+
+# GoogleNet 
+
+# ResNet 
+
+# Custom models
+
+# DenseNet 
+
+# CapsuleNet 
+
+# MobileNet 
+
+# EfficientNet 
+
+
 
 # Segmentation
 - [SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SegAN%3A+Adversarial+Network+with+Multi-scale+L1+Loss+for+Medical+Image+Segmentation&btnG=) [[arXiv]](https://arxiv.org/abs/1706.01805)
