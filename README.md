@@ -1,5 +1,5 @@
 # <p align=center> This repo supplements our [Survey on deep learning models for detection of COVID-19](https://link.springer.com/article/10.1007/s00521-023-08683-x), which has been published in Neural Computing and Applications (NCAA).
-Authors: [Javad Mozaffari](javadmzf97@gmail.com), [Abdollah Amirkhani](), and [Shahriar B Shokouhi]().
+Authors: [Javad Mozaffari](mailto:javadmzf97@gmail.com), [Abdollah Amirkhani](), and [Shahriar B Shokouhi]().
 </p>
 
 # <p align=center>`Awesome-COVID19-research </p>
