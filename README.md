@@ -122,7 +122,7 @@ Authors: [Javad Mozaffari](), [Abdollah Amirkhani](), and [Shahriar B Shokouhi](
 |<br> [Human-level COVID-19 Diagnosis from Low-dose CT Scans Using a Two-stage Time-distributed Capsule Network](https://www.nature.com/articles/s41598-022-08796-8) <br> | 2021 | CT |94.1%  | 3 class
 |<br> [DenseCapsNet: Detection of COVID-19 from X-ray images using a capsule neural network](https://www.sciencedirect.com/science/article/pii/S0010482521001931) <br> | 2021 | X-ray |90.7%  | 3 class
 |<br> [The application of fast CapsNet computer vision in detecting Covid-19](https://www.researchgate.net/profile/Raj-Sandu/publication/342699125_The_application_of_fast_CapsNet_computer_vision_in_detecting_Covid-19/links/5f01b753299bf18816037ea0/The-application-of-fast-CapsNet-computer-vision-in-detecting-Covid-19.pdf) <br> | 2020 | CT |92%  | 3 class
-# MobileNet 
+# MobileNet
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MobileNets%3A+Efficient+Convolutional+Neural+Networks+for+Mobile+Vision+Applications&btnG=) [[arXiv]](https://arxiv.org/abs/1704.04861) [[code]](https://pytorch.org/hub/pytorch_vision_mobilenet_v2/)
 
 |  Title  |   Year  |   Image type   |   Accuracy     | Number of classes |
