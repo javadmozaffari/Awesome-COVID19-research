@@ -3,6 +3,8 @@ Authors: [Javad Mozaffari](), [Abdollah Amirkhani](), and [Shahriar B Shokouhi](
 </p>
 
 # <p align=center>`Awesome-COVID19-research </p>
+![review](https://github.com/javadmozaffari/Awesome-COVID19-research/assets/47658906/2a7e7bf1-4eb6-4a3f-b7c1-f5f73a5d0c18)
+
 ## Overview
 - [Machine learning vs deep learning](#ml-vs-dl)
 - [Datasets](#datasets)
